@@ -77,28 +77,11 @@ Basic workflow:
 Input Data → Model Training → Pattern Learning → New Content Generation
 1.2 Types of Generative AI Models
 
-
-
-
-
-
-
-
-
 GANs
 
 Use a generator and discriminator to create realistic synthetic data.
 
 <img width="1261" height="836" alt="image" src="https://github.com/user-attachments/assets/71492b68-8733-4937-80ef-cbf4d4de29b0" />
-
-
-
-
-
-
-
-
-
 
 VAEs
 
@@ -106,13 +89,6 @@ Learn compressed representations and generate new samples from a latent space.
 
 
 <img width="1487" height="836" alt="image" src="https://github.com/user-attachments/assets/6b1c3e47-b6a9-40d3-8610-f0e170ad3d22" />
-
-
-
-
-
-
-
 
 Diffusion Models
 
@@ -130,11 +106,7 @@ Generate images by learning to remove noise step by step.
 2.1 Overview of Transformers
 Transformers are neural network architectures introduced in the research paper Attention Is All You Need in 2017. They use attention mechanisms to identify relationships between tokens and are widely used in modern language models.
 
-
-
 <img width="1575" height="837" alt="Screenshot 2026-10-28 190717" src="https://github.com/user-attachments/assets/2813b831-d8f1-42f7-a50a-d3009fa5a1e3" />
-
-
 
 2.2 Components of a Transformer
 1. Input Embeddings: Convert tokens into numerical vectors.
@@ -145,27 +117,11 @@ Transformers are neural network architectures introduced in the research paper A
 6. Output Layer: Produces predictions, such as the next token in a sentence.
 2.3 Types of Transformer Models
 
-
-
-
-
-
-
-
-
 BERT — Encoder-only
 
 Useful for text understanding and classification.
 
-
-
 <img width="798" height="537" alt="image" src="https://github.com/user-attachments/assets/07b49c32-f29e-4c86-a138-a3b3830c1035" />
-
-
-
-
-
-
 
 GPT — Decoder-only
 
@@ -189,31 +145,11 @@ Creates reports, stories, summaries, chatbot responses, and computer code.
 
 <img width="692" height="522" alt="image" src="https://github.com/user-attachments/assets/6435edd1-d490-47e2-af96-7fab29bffcd6" />
 
-
-
-
-
-
-
-
-
-
-
 3.2 Image and Video Generation
 
 Creates artwork, illustrations, design concepts, and video content from prompts.
 
-
-
-
 <img width="1457" height="831" alt="image" src="https://github.com/user-attachments/assets/4cf932a6-b7fa-4211-b471-0b6997b1b0d8" />
-
-
-
-
-
-
-
 
 3.3 Music and Audio
 
@@ -223,29 +159,11 @@ Generates musical compositions, sound effects, and synthetic speech.
 <img width="1280" height="832" alt="image" src="https://github.com/user-attachments/assets/6a72ebe9-30ea-4433-bc63-4559cc644524" />
 
 
-
-
-
-
-
-
-
-
 3.4 Healthcare and Scientific Research
 
 Helps researchers explore potential drug candidates, analyze information, and develop scientific ideas.
 
-
-
-
 <img width="832" height="837" alt="image" src="https://github.com/user-attachments/assets/954b7e9d-d2f3-4678-a50b-8542e2cb66cd" />
-
-
-
-
-
-
-
 
 3.5 Education and Business
 
@@ -258,13 +176,7 @@ Supports personalized learning, content creation, customer service, and report p
 Large Language Models are AI systems trained on large amounts of data to understand prompts and generate human-like text. Many modern LLMs are based on the Transformer architecture.
 4.1 Architecture of LLMs
 
-
 <img width="1471" height="825" alt="image" src="https://github.com/user-attachments/assets/db555376-a62e-4d24-8812-10a3e7ff15ab" />
-
-
-
-
-
 
 The main components are:
 - Tokenization: Converts input text into tokens.
@@ -275,13 +187,7 @@ The main components are:
 4.2 Training Process
 
 
-
 <img width="1135" height="843" alt="image" src="https://github.com/user-attachments/assets/6135cdf1-1591-4169-8de1-bafd744daa1b" />
-
-
-
-
-
 
 1. Data Collection: Gather suitable text and other training data.
 2. Preprocessing: Clean and prepare the data.
@@ -292,14 +198,7 @@ The main components are:
 4.3 Impact of Scaling
 Scaling involves increasing model parameters, training data, and computational resources.
 
-
-
 <img width="1020" height="586" alt="image" src="https://github.com/user-attachments/assets/e68e5121-da2a-4bea-a531-e2f23ad85e32" />
-
-
-
-
-
 
 Benefits of scaling:
 - Better language fluency and contextual understanding.
@@ -324,13 +223,7 @@ Note: Exact model details and capabilities vary by version. Comparisons should b
 4.5 Limitations and Ethical Considerations
 
 
-
 <img width="1476" height="845" alt="image" src="https://github.com/user-attachments/assets/b23d9cb9-2794-446d-a966-c71aa254b8ac" />
-
-
-
-
-
 
 - Bias: May reproduce unfair patterns in training data.
 - Hallucinations: May generate convincing but incorrect information.
