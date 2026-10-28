@@ -1,4 +1,6 @@
+
 NAME:KARTHIGA SRI G
+
 ROLL NO:212225040175
 # Aim:	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 Experiment:
@@ -348,3 +350,7 @@ Generative AI is an important field of Artificial Intelligence that creates new 
 Scaling can improve the capabilities of LLMs, but it also introduces challenges involving computational cost, reliability, bias, and privacy. Responsible development and human supervision are essential for using Generative AI effectively.
 
 # Result
+
+Generative AI is at the forefront of innovation, promising to reshape various industries by leveraging advanced models like transformers while addressing challenges of scaling and ethics.
+
+
